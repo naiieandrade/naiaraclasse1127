@@ -1,0 +1,64 @@
+{ 
+"nome": "Naiara",
+"filmes": [
+    {
+        "titulo":"A Origem",
+        "anoLancamento": 2010,
+        "elencoPrincipal": ["Leonardo DiCaprio","Marion Cotillard","Elliot Page","Cillian Murphy"],
+        "tipo": "Ficção Científica",
+        "sinopse":"Dom Cobb é um ladrão com a rara habilidade de roubar segredos do inconsciente, obtidos durante o estado de sono. Impedido de retornar para sua família, ele recebe a oportunidade de se redimir ao realizar uma tarefa aparentemente impossível: plantar uma ideia na mente do herdeiro de um império. Para realizar o crime perfeito, ele conta com a ajuda do parceiro Arthur, o discreto Eames e a arquiteta de sonhos Ariadne. Juntos, eles correm para que o inimigo não antecipe seus passos."
+    },
+    {
+        "titulo":"Top Gun 2",
+        "anoLancamento": 2022,
+        "elencoPrincipal": ["Tom Cruise","Miles Teller","Val Kilmer","Glen Powell","Jennifer Connelly"],
+        "tipo": "Ação",
+        "sinopse": "Depois de mais de 30 anos de serviço como um dos principais aviadores da Marinha, Pete "Maverick" Mitchell está de volta, rompendo os limites como um piloto de testes corajoso. No mundo contemporâneo das guerras tecnológicas, Maverick enfrenta drones e prova que o fator humano ainda é essencial."
+    },
+    {
+        "titulo":"Divertida Mente",
+        "anoLancamento": 2015,
+        "elencoPrincipal": ["Kaitlyn Dias","Richard Kind","Amy Poehler","Mindy Kaling"],
+        "tipo": "Animação",
+        "sinopse": "Com a mudança para uma nova cidade, as emoções de Riley, que tem apenas 11 anos de idade, ficam extremamente agitadas. Uma confusão na sala de controle do seu cérebro deixa a Alegria e a Tristeza de fora, afetando a vida de Riley radicalmente."
+    }
+],
+"livros": [
+    {
+        "titulo":"Como fazer amigos e influenciar pessoas",
+        "autor":"Dale Carnegie",
+        "ano_lancamento":2012,
+        "tipo":"Desenvolvimento pessoal",
+        "numero_paginas":264
+    },
+    {
+        "titulo":"O poder do hábito",
+        "autor":"Charles Duhigg",
+        "ano_lancamento":2012,
+        "tipo":"Desenvolvimento pessoal",
+        "numero_paginas":408
+    },
+    {
+        "titulo":"Fogo e Sangue",
+        "autor":"George R. R. Martin",
+        "ano_lancamento":2018,
+        "tipo":"Drama",
+        "numero_paginas":664
+    }
+],
+"comidas": [
+    {
+        "nome":"Pizza",
+        "ingredientes":["Tomate, Mussarela, Presunto"]
+    },
+    {
+        "nome":"Petit Gateau",
+        "ingredientes":["Chocolate, Manteiga, Ovo, Açúcar, Farinha"]
+    },
+    {
+        "nome":"PizBolo de cenouraza",
+        "ingredientes":["Cenoura, Ovo, Farinha, Óleo, Fermento"]
+    }
+    
+]
+}
